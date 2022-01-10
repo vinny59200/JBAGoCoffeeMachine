@@ -1,0 +1,17 @@
+type: remote_edu
+custom_name: stage3
+files:
+- name: main.go
+  visible: true
+  text: "package main\n\nfunc main() {\n\t// write your code here\n}\n"
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/194/stages/967/implement#comment
+check_profile: hyperskill_go
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 09 Jan 2022 19:45:18 UTC
+record: 3
